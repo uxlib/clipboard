@@ -1,0 +1,4 @@
+clipboard
+=========
+
+the uxClipboard package
